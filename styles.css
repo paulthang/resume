@@ -1,0 +1,22 @@
+/* External CSS */
+
+/* styling background color */
+body {
+        background-color: #a1eafb; /* choose color from colorhunt */
+}
+/* styling horizontal lines */
+hr {
+        border-style: none;
+        border-top-style: dotted;
+        border-color: white;
+        border-width: 5px;
+        width: 5%;
+}
+/* styling text color */
+h1 {
+        color: #ce1212;
+}
+/* styling text color */
+h3 {
+        color: #0061a8;
+}
